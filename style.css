@@ -1,0 +1,122 @@
+#aboutMe iframe {
+    width: 100%;
+}
+
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: darkorange;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#shilpites {
+    text-align: left;
+
+}
+
+#contact {
+    padding-left: 250px;
+}
+
+#aboutMe {
+    background-color: white;
+}
+
+.color1 {
+    color: darkslateblue;
+}
+
+.color2 {
+    color:firebrick;
+}
+
+#select4 {
+
+    padding-right: 150px;
+}
+
+#where {
+    text-align: left;
+    padding-right: 150px;
+    padding-left: 100px
+}
+
+img.img-responsive.img-thumbnail {
+    margin: 10px 0px 10px 0px;
+}
+
+.navbar-inverse {
+    padding: 10px 50px 10px 50px;
+}
+
+#mark {
+    background-color:   firebrick;
+    font-family: sans-serif;
+    color: floralwhite;
+    width: 100%;
+    margin-bottom: 50;
+}
